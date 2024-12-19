@@ -1,0 +1,131 @@
+.Sam {
+  display: flex;
+}
+.ram {
+  display: flex;
+}
+.io {
+  margin: 60px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sa {
+  margin-left: 90px;
+}
+.card {
+  margin-top: 89px;
+  margin-left: 90px;
+}
+.jam {
+  background-color: salmon;
+  display: flex;
+size: 300px;
+margin-right: 90px;
+}
+.rom {
+  width: 9px;
+  font-size: larger;
+  color: white;
+  margin-top: 50px;
+}
+.op {
+  font-size: small;
+  color: white;
+}
+.po {
+  height: 9px;
+  font-size: larger;
+}
+
+.ty{
+  color: black;
+  font-size: larger;
+}
+
+
+.kl{
+  color: white;
+}
+
+.but{
+  background-color: black;
+color: white;
+margin-right: 90px;
+
+}
+.ji{
+  display: flex;
+  flex-direction: column;
+  margin-top: 90px;
+  align-items: end;
+  margin-left: 80px;
+}
+.ohu{
+
+  background-color: skyblue;
+}
+.oiu{
+  background-color: black;
+  color: white;
+  margin-bottom: 9px;
+}
+.der{
+  display: flex;
+  flex-direction: row;
+}
+.nam{
+  margin-left: 90px;
+  margin-right: 20px;
+  margin-top: 50px;
+
+}
+.lko{
+font-size: larger;
+}
+.lop{
+  margin-right: 90px;
+  font-size: small;
+
+}
+.ipko{
+  margin-left: 90px;
+  width:900px;
+
+}
+.poi{
+  margin-left:9px;
+  background: orange;
+  border-radius: 9px;
+}
+.der{
+  margin-top: 13px;
+}
+
+.ty{
+  border: 1px;
+}
+.butio{
+ background-color: transparent;
+ color: gray;
+ border: transparent;
+ border-radius: 9px;
+ width: 9px;
+
+}
+.image{
+  width:90px;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+
+.remove{
+  background-color: transparent;
+  color: black;
+  border-radius: 90px;
+
+}
+.opplo{
+  background-color: transparent;
+  border-radius: 90px ;
+  color: black;
+
+}
